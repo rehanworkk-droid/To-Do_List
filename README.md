@@ -2,7 +2,7 @@
 
 A modern and interactive To-Do List application built with HTML, CSS, and JavaScript. Keep track of your daily tasks with features like add, edit, delete, task filters, and LocalStorage persistence. Fully responsive and designed with a clean, modern UI.
 
-🚀 Features
+🚀 ###Features
 
 Add new tasks
 

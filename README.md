@@ -16,12 +16,6 @@ A modern and interactive To-Do List application built with **HTML, CSS, and Java
 
 ---
 
-## **🌐 Live Demo**
-
-Check out the live demo here: [Your Live Demo Link]
-
----
-
 ## **🛠 Built With**
 
 - **HTML5** – Structure  
